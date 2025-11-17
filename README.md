@@ -1,16 +1,6 @@
 > “O objetivo dos princípios é a criação de estruturas de software de nível médio que: Tolerem mudanças, Sejam fáceis de entender e Sejam a base de componentes que possam ser usados em muitos sistemas de software” - Livro Arquitetura limpa
 > 
 
-## 🔗 Links
-
-Aqui está o link da apresentação:
-
-https://docs.google.com/presentation/d/1oTw_3EAAZn8ebA6tOwf-6hDL5WWdz2aOzUnHHCZLoEs/edit?usp=sharing
-
-Aqui está a gravação da apresentação que fizemos no DOJO tech do squad sobre SOLID:
-
-https://drive.google.com/file/d/1ir26W1nIJbCMq0tEZi4OH49oW6iva6TV/view?usp=drive_link
-
 ## O que é SOLID?
 
 > “Os princípios SOLID são um conjunto de cinco diretrizes para design de software orientado a objetos, que promovem código mais flexível, modular e fácil de manter”
